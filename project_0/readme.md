@@ -7,7 +7,7 @@
 
 [3. Краткая информация о данных](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Краткая_информация_о_данных)
 
-[4. Этапы работы над проектом](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Этапы_работы_над_проектом)
+[4. Этапы работы над проектом](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Этапы работы над проектом)
 
 [5. Результат](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Результат)
 
@@ -39,22 +39,22 @@
 ### Краткая информация о данных
 ...
 
-:arrow_up:[1. Описание проекта](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
 
 ### Этапы работы над проектом
 ...
 
-:arrow_up:[1. Описание проекта](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
 
 ### Результат
 ...
 
-:arrow_up:[1. Описание проекта](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
 
 
 ### Выводы
 ...
 
-:arrow_up:[1. Описание проекта](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
 
 
