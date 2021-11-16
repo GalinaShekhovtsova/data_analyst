@@ -17,13 +17,12 @@
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
-
 :arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+
 
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
-
 
 **Условия соревнования:**
 - Компьютер загадывает целое число от 0 до 100 и нам его нужно угадать. Под "угадать", подразумевается "написать программу, которая угадывает число".
@@ -36,25 +35,27 @@
 Учимся писать хороший код на Python
 
 
+
 ### Краткая информация о данных
 ...
-
 :arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+
+
 
 ### Этапы работы над проектом
 ...
-
 :arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+
+
 
 ### Результат
 ...
-
 :arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+
 
 
 ### Выводы
 ...
-
 :arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
 
 
