@@ -3,11 +3,11 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Какой_кейс_решаем)
+[2. Какой кейс решаем?](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Краткая_информация_о_данных)
+[3. Краткая информация о данных](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Этапы работы над проектом)
+[4. Этапы работы над проектом](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Этапы-работы-над-проектом)
 
 [5. Результат](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Результат)
 
@@ -18,7 +18,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[1. Описание проекта](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
+:arrow_up:[Оглавление](https://github.com/GalinaShekhovtsova/data_analyst/blob/main/project_0/readme.md#Оглавление)
 
 
 ### Какой кейс решаем?
